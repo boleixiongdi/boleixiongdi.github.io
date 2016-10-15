@@ -53,7 +53,7 @@ class App extends Component {
     return (
       <div>
         <div id="logo">
-          <a href="#/">boleixiongdi.github.io</a>
+          <a href="#/">博羸兄弟</a>
         </div>
         <div>
           {this.props.children}
