@@ -5,6 +5,6 @@ export const CONFIG = {
   title      : 'boleixiongdi - 写给未来的自己',
   titleLoad  : 'boleixiongdi - 正在加载...',
   duoshuo    : 'boleixiongdi',
-  baiduAnaly : '84602bc3713ca2aeb0258c55adf6a333',
+  baiduAnaly : '232533333333333333333',
   // access_token : '6117ebab6cc1cffee7f8d82191c8c937714e05ea'
 };
